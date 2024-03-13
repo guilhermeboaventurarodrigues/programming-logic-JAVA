@@ -4,7 +4,7 @@ public class Exercicio13SomaDiagonalArray {
 
         numbers[0][0] = 22;
         numbers[0][1] = 11;
-        numbers[0][2] = 24;
+        numbers[0][2] = 25;
 
         numbers[1][0] = 44;
         numbers[1][1] = 55;
